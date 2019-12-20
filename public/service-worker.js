@@ -1,11 +1,16 @@
-const FILES TO CACHE = [
-    
+const FILES_TO_CACHE = [
+
     "/",
     "/db.js",
     "/index.html",
     "/index.js",
-    "/style.css"
+    "/style.css",
+    "/manifest.webmanifest"
+
 ];
+
+
+
 
 
 const CACHE_NAME = "static-cache-v2";
