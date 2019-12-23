@@ -11,7 +11,7 @@ also show deposits to your account. This app is built to function with or withou
 
 ## Link
 
-[Budget Tracker](https://gtj82.github.io/GTJ82.github.io-Fitness_Tracker/)
+[Budget Tracker](https://gtj82.github.io/GTJ82.github.io-Budget_Tracker/)
 
 ## Pictures
 
