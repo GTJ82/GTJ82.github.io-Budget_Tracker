@@ -11,9 +11,9 @@ also show deposits to your account. This app is built to function with or withou
 
 ## Link
 
-[Budget Tracker](https://gtj82.github.io/GTJ82.github.io-Budget_Tracker/)
+[Budget Tracker](https://pacific-forest-96913.herokuapp.com/)
 
 ## Pictures
 
 -Image of deployed site
-![Website Image](public/web_image.png)
+![Website Image](assets/images/Budget1.png)
